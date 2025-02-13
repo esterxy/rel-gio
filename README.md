@@ -20,4 +20,4 @@ Este é um projeto de um relógio digital que exibe a hora, data e segundos em t
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/esterxy/rel-gio
+   git clone https://github.com/esterxy/relogio
