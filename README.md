@@ -11,9 +11,9 @@ Este é um projeto de um relógio digital que exibe a hora, data e segundos em t
 
 ## Tecnologias Usadas
 
-- **HTML**: Para a estrutura da página.
-- **CSS**: Para o estilo e layout do relógio.
-- **JavaScript**: Para a lógica de atualização da hora, minutos, segundos e data.
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML**: Para a estrutura da página.
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS**: Para o estilo e layout do relógio.
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**: Para a lógica de atualização da hora, minutos, segundos e data.
 
 ## Como Usar
 
