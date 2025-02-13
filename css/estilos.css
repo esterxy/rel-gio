@@ -1,0 +1,31 @@
+body{
+    background: url(/img/pexels-katja-79053-592077.jpg);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.caixa1{
+    width: fit-content;
+    background: rgba(0,0,0,0,563);
+    color: rgb(6, 6, 6);
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 50px;
+}
+.caixa2{
+    background: rgba(19, 19, 19, 0.505);
+    padding: 20px;
+    width: fit-content;
+    border-radius: 20px;
+    font-size: 65px;
+}
